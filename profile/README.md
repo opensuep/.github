@@ -1,12 +1,4 @@
-# OpenSUEP 欢迎您！
+## OpenSUEP 欢迎您！
+我们是热爱开源的上电人。
 
-<!--
-
-**Here are some ideas to get you started:**
-
-- A short introduction - what is your organization all about?
-- Contribution guidelines - how can the community get involved?
-- Useful resources - where can the community find your docs? Is there anything else the community should know?
-- Fun facts - what does your team eat for breakfast?
-- Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+如果你也在上海电力大学学习，并且知道开源、向往开源、从事开源，欢迎[加入我们](#)。
